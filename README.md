@@ -33,6 +33,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> 
   <img src="https://e7.pngegg.com/pngimages/778/255/png-clipart-sqlite-database-android-mysql-android-text-logo.png" alt="sqlite" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="wordpress" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/woocommerce/woocommerce-original.svg" alt="woocommerce" width="40" height="40"/> 
 </p>
 
 <p align="center">
