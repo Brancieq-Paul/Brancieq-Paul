@@ -1,16 +1,44 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Paul ! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h3 align="center">A passionate devlopper from Reunion Island !</h3>
 
-<!--
-**Brancieq-Paul/Brancieq-Paul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on my **end of studies project**
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **the concepts of Machine Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 I’m looking to collaborate on **differents dev projects in python, C, C++, and others.**
+
+- 📫 How to reach me: **paul.brancieq@epitech.eu**
+
+- ⚡ What I like to do: **I like reading, writing, and coding of course.**
+
+<h3 align="center">Connect with me:</h3>
+<div align="center">
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-brancieq/)
+  
+</div>
+
+<h3 align="center">Languages and Tools:</h3>
+
+<p align="center"> 
+  <a href="https://www.python.org" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a>  
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://git-scm.com/" target="_blank"> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  </a>
+</p>
+
+<p align= "center">
+  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=Brancieq-Paul&theme=react&show_icons=true&include_all_commits=true" />
+  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Brancieq-Paul&theme=react&layout=compact" />
+</p>
+
+------
+
+[Brancieq-Paul](https://github.com/Brancieq-Paul)
+
+Last Edited on: 07/12/2021
