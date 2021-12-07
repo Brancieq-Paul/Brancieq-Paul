@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Paul ! <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
+<h1 align="center">Hi 👋, I'm Paul !</h1>
 <h3 align="center">A passionate devlopper from Reunion Island !</h3>
 
 - 🔭 I’m currently working on my **end of studies project**
