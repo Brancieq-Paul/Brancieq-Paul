@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on my **end of studies project**
 
-- 🌱 I’m currently learning **the concepts of Machine Learning**
-
 - 👯 I’m looking to collaborate on **differents dev projects in python, C, C++, and others.**
 
 - 📫 How to reach me: **paul.brancieq@epitech.eu**
